@@ -1,0 +1,7 @@
+[.]+
+
+a|alpha  alpha1
+
+有多个同时匹配成功
+
+escape到底有什么 \n
